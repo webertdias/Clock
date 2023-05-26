@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-image:url(imagem/big-ben-em-londres-1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.clock{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 500px;
+    margin: 100pt;
+    border: 2px solid rgb(55, 87, 119);
+    border-radius: 7px;
+}
+
+.hour, .minutes, .seconds{
+    margin: 10px;
+}
+

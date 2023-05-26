@@ -11,6 +11,15 @@ const clock = setInterval(function time () {
     let m = today.getMinutes();
     let s = today.getSeconds();
 
+    if (h < 10){
+        h = '0' + h;
+    };
+
+    if (s < 10){
+        s = '0' + s;
+    }
+
+
     hour.innerHTML = h;
     minutes.innerHTML = m;
     seconds.innerHTML = s;
