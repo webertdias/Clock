@@ -1,7 +1,11 @@
 <h1>Clock</h1>
 
+<img src = "https://github.com/webertdias/Clock/assets/100624694/232c1c04-4401-459a-81a4-8523b092abf0"/>
+
 
 <h2>Link de acesso:</h2>
+
+ https://webertdias.github.io/Clock/
 
 <h2>Descrição do Projeto</h2>
 
@@ -13,7 +17,7 @@
 <p>Javascript</p>
 
 <h2>Status do Projeto</h2>
-<p>Em desenvolvimento</p>
+<p>Projeto finalizado</p>
 
 <h2>Autor</h2>
 <p>Webert Dias</p>
